@@ -297,7 +297,7 @@ main {
     width: 24px;
   }
   .arrow.down {
-    bottom: 10%;
+    bottom: 5%;
     z-index: 9999;
   }
   .place-title {
