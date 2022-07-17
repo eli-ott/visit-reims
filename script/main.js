@@ -1,4 +1,4 @@
-import data from "../json/places.json" assert { type: "json" };
+const data = require('../json/places.json');
 
 //#region variables
 
