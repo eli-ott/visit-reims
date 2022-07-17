@@ -1,6 +1,6 @@
 //import data from '../json/places.json' assert {type: 'json'} 
 let data;
-fetch('..json/places.json').then(res => res.json())
+fetch('json/places.json').then(res => res.json())
                 .then(dataRaw => {
                   console.log(dataRaw)
                 data = dataRaw;
