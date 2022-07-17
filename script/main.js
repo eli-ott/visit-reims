@@ -4,7 +4,8 @@ fetch('json/places.json').then(res => res.json())
                 .then(dataRaw => {
                   console.log(dataRaw)
                 data = dataRaw;
-                })
+                });
+console.log(data, data[0]);
 
 //#region variables
 
