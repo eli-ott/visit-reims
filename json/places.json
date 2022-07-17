@@ -1,0 +1,135 @@
+[
+  {
+    "index": 0,
+    "meta": {
+      "title": "Notre-Dame de Reims"
+    },
+    "components": {
+      "p": "The cathedral Notre-Dame de Reims is an emblem of Reims. Created in 1345, it has seen 31 king being crowned. <br/> But the cathedral is also famous for its statues, there is a total of 2303 statues. The most famous one is for sure <i>L'Ange au Sourire</i>, seeable on the front left entrance. <br/> Inside you can see some fabulous stained glass, the great organ or the heart organ. <br/> And if you come at the right timing you could have the opportunity to see the clock ringing. <br/> You can also climb stairs to access the ceiling and have a panoramic view of Reims, but also to see all the statues on the top of the cathedral, unfortunetly this isn't free.",
+      "h2": "Cathedral Notre-Dame de Reims"
+    },
+    "price": "Free",
+    "website": {
+      "link": "https://www.cathedrale-reims.fr/",
+      "name": "cathedrale-reims.fr"
+    },
+    "img": {
+      "src": "cathedral.jpg",
+      "alt": "Cathedral Notre-Dame de Reims"
+    }
+  },
+  {
+    "index": 1,
+    "meta": {
+      "title": "Basilica Saint-Remi"
+    },
+    "components": {
+      "p": "Not far from the cathedral is another historical monument, the basilica Saint-Remi, it took two whole century to build. <br/> The basilica is quite tall given that it has almost the same height as the cathedral. Its two towers are very representative of this building. <br/> The interior is very rich. A lot of stained glass bring warm colors on the two organs. <br/> Moreover, there is the tomb of Saint Remi at the center of the basilica with a lot of statues and carvings. <br/> Hanging from the ceiling you can see the Crown of Light, which is a very original chandelier adorned with gems.",
+      "h2": "Basilica Saint-Remi"
+    },
+    "price": "Free",
+    "website": {
+      "link": "https://www.reims-tourisme.com/basilique-saint-remi/reims/pcu0000000000733",
+      "name": "reims-tourisme.com/basilique-saint-remi"
+    },
+    "img": {
+      "src": "basilique.jpg",
+      "alt": "Basilique St Remi"
+    }
+  },
+  {
+    "index": 2,
+    "meta": {
+      "title": "Foujita chapel"
+    },
+    "components": {
+      "p": "Foujita chapel is an underated monument I think in Reims, too few people know it. Built in 1966, the chapel aims to encompass all traditionals Western artistic expressions. <br/> This monument was created by a Japanese artist, and it shows due to all the frescos that covers up the walls. <br/> Surrounded by a bit of greenery the chapel is slightly hidden behind its entrance. <br/> Visits are only with a guide that'll explain every signifiaction of the paintings and their history.",
+      "h2": "Foujita chapel"
+    },
+    "price": 1,
+    "website": {
+      "link": "https://www.reims-tourisme.com/chapelle-foujita/reims/pcu0000000001191",
+      "name": "reims-tourisme.com/chapelle-foujita"
+    },
+    "img": {
+      "src": "foujita.jpg",
+      "alt": "Foujita Chapel"
+    }
+  },
+  {
+    "index": 3,
+    "meta": {
+      "title": "The Promenades"
+    },
+    "components": {
+      "p": "Inaugurated in 2019, the Promenades is the best place to chill in Reims. <br/> Spanning almost 850 meters of greenery, this place is a little corner of heaven. Perfect for chilling or playing with friends, it offers every possibilities. <br/> With hammock to rest, games for children and also sport facilities, everyone can enjoy it. In addition to this, its little fontains can be perfect with the hot temperature to refresh yourself. <br/>And if you ever have a little craving, you can still buy some waffles or ice cream. ",
+      "h2": "The Promenades"
+    },
+    "price": "Free",
+    "website": {
+      "link": "https://www.reims-tourisme.com/promenades-jean-louis-schneiter/reims/pcucha051v50icbc",
+      "name": "reims-tourisme.com/promenades"
+    },
+    "img": {
+      "src": "promenades.jpg",
+      "alt": "The Promenades"
+    }
+  },
+  {
+    "index": 4,
+    "meta": {
+      "title": "Saint Jacques chirch"
+    },
+    "components": {
+      "p": "Hidden in the city center, between two shops, you can find this little chirch. Built in 1270, it has received some restauration due to the Worl War 1. <br/> From the outside, the chirche blend in the other building owing to its simple design. <br/> But when you enter it, you find a little place of peace. With some colorful stained glass and lights, it has a very comforting atmosphere. <br/> Of course, I won't forget to mention its huge organ, that actually take all the width of the nave. <br/> And if you need help there, you could find someone to give you informations about the chirch, or even oter monuments of Reims.",
+      "h2": "Saint Jacques Chirch"
+    },
+    "price": "Free",
+    "website": {
+      "link": "https://www.reims-tourisme.com/eglise-saint-jacques/reims/pcu0000000001312",
+      "name": "reims-tourisme.com/eglise-saint-jacques"
+    },
+    "img": {
+      "src": "saintJacques.jpg",
+      "alt": "Saint Jacques Chirch"
+    }
+  },
+  {
+    "index": 5,
+    "meta": {
+      "title": "Pommery Champagne"
+    },
+    "components": {
+      "p": "What will be Reims without talking about Champagne. Pommery is one of the major one in Reims. <br/> When arriving you will see a fabulous castle, and sometimes art pieces in the front garden. <br/> Pommery offers a lot of things to do. For instance, you can taste some champagne and buy it. <br/> Or you could visit their cellar, 30 meters underground and with a total of 18 kilometers long. This experience is follewed by arts, arranged throughout the visit, where you are completly immersed inside the cellar.",
+      "h2": "Pommery Champagne"
+    },
+    "price": 2,
+    "website": {
+      "link": "https://www.champagnepommery.com/",
+      "name": "champagnepommery.com/"
+    },
+    "img": {
+      "src": "pommery.jpg",
+      "alt": "Pommery Castle"
+    }
+  },
+  {
+    "index": 6,
+    "meta": {
+      "title": "The Guinguette"
+    },
+    "components": {
+      "p": "A bit far from the city center, we have one of my favorite park. Right next to the Vesle, this park offers serenity. <br/> With its large two parks, you can a great time walking through each. But if you are more festive, you can go listen to music groups that often plays there, especially in summer. <br/> Moreover, there's a lot of friendly activities, organisated or not, like petanque, or party on the evening. <br/> To fulfill all your needs, there is a food truck and even a little store to buy some tee-shirts, caps, etc.",
+      "h2": "The Guinguette"
+    },
+    "price": "Free",
+    "website": {
+      "link": "https://www.reims-tourisme.com/la-guinguette-remoise/reims/fmacha051v509vwf",
+      "name": "reims-tourisme.com/la-guinguette-remoise"
+    },
+    "img": {
+      "src": "guinguette.jpg",
+      "alt": "The Guinguette"
+    }
+  }
+]
