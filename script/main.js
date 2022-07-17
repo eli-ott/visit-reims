@@ -4,6 +4,7 @@ fetch('json/places.json').then(res => res.json())
                 .then(dataRaw => {
                   console.log("raaw " + dataRaw)
                 data = dataRaw;
+  changeData(0);
                 });
 console.log("data" + data, "data0" + data[0]);
 setTimeout(() => {
@@ -82,7 +83,6 @@ const changeData = (id) => {
   placePicture.src = path + data[id].img.src;
   placePicture.alt = data[id].img.alt;
 };
-changeData(0);
 
 //#endregion
 
