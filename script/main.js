@@ -2,10 +2,13 @@
 let data;
 fetch('json/places.json').then(res => res.json())
                 .then(dataRaw => {
-                  console.log(dataRaw)
+                  console.log("raaw " + dataRaw)
                 data = dataRaw;
                 });
-console.log(data, data[0]);
+console.log("data" + data, "data0" + data[0]);
+setTimeout(() => {
+  console.log("data" + data, "data0" + data[0]);
+  ), 1000};
 
 //#region variables
 
