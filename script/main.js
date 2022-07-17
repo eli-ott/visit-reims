@@ -1,15 +1,5 @@
 //import data from '../json/places.json' assert {type: 'json'} 
-let data;
-fetch('json/places.json').then(res => res.json())
-                .then(dataRaw => {
-                  console.log("raaw " + dataRaw)
-                data = dataRaw;
-  changeData(0);
-                });
-console.log("data" + data, "data0" + data[0]);
-setTimeout(() => {
-  console.log("data" + data, "data0" + data[0]);
-}, 1000);
+
 
 //#region variables
 
@@ -83,6 +73,15 @@ const changeData = (id) => {
   placePicture.src = path + data[id].img.src;
   placePicture.alt = data[id].img.alt;
 };
+
+let data;
+fetch('json/places.json').then(res => res.json())
+                .then(dataRaw => {
+                  console.log("raaw " + dataRaw)
+                data = dataRaw;
+  console.log("data" + data, "data0" + data[0]);
+  changeData(0);
+                });
 
 //#endregion
 
