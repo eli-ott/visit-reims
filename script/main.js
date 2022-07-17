@@ -9,7 +9,7 @@ fetch('json/places.json').then(res => res.json())
 console.log("data" + data, "data0" + data[0]);
 setTimeout(() => {
   console.log("data" + data, "data0" + data[0]);
-  ), 1000};
+}, 1000);
 
 //#region variables
 
